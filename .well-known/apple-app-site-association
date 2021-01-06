@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "KQHZFX6T86.com.AerLingus",
+        "paths": [
+          "/html/flightSearchResult*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "KQHZFX6T86.com.AerLingus",
+      "M6M2ARE73U.com.AerLingus"
+    ]
+  }
+}
